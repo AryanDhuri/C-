@@ -1,0 +1,14 @@
+C:\Users\Studen\Documents\Aryan\Encap\Encap\bin\Debug\net8.0\Encap.exe
+C:\Users\Studen\Documents\Aryan\Encap\Encap\bin\Debug\net8.0\Encap.deps.json
+C:\Users\Studen\Documents\Aryan\Encap\Encap\bin\Debug\net8.0\Encap.runtimeconfig.json
+C:\Users\Studen\Documents\Aryan\Encap\Encap\bin\Debug\net8.0\Encap.dll
+C:\Users\Studen\Documents\Aryan\Encap\Encap\bin\Debug\net8.0\Encap.pdb
+C:\Users\Studen\Documents\Aryan\Encap\Encap\obj\Debug\net8.0\Encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Documents\Aryan\Encap\Encap\obj\Debug\net8.0\Encap.AssemblyInfoInputs.cache
+C:\Users\Studen\Documents\Aryan\Encap\Encap\obj\Debug\net8.0\Encap.AssemblyInfo.cs
+C:\Users\Studen\Documents\Aryan\Encap\Encap\obj\Debug\net8.0\Encap.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Documents\Aryan\Encap\Encap\obj\Debug\net8.0\Encap.dll
+C:\Users\Studen\Documents\Aryan\Encap\Encap\obj\Debug\net8.0\refint\Encap.dll
+C:\Users\Studen\Documents\Aryan\Encap\Encap\obj\Debug\net8.0\Encap.pdb
+C:\Users\Studen\Documents\Aryan\Encap\Encap\obj\Debug\net8.0\Encap.genruntimeconfig.cache
+C:\Users\Studen\Documents\Aryan\Encap\Encap\obj\Debug\net8.0\ref\Encap.dll
