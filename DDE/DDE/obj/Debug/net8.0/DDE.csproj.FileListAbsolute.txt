@@ -1,0 +1,14 @@
+C:\Users\Studen\Documents\Aryan\DDE\DDE\obj\Debug\net8.0\DDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Documents\Aryan\DDE\DDE\obj\Debug\net8.0\DDE.AssemblyInfoInputs.cache
+C:\Users\Studen\Documents\Aryan\DDE\DDE\obj\Debug\net8.0\DDE.AssemblyInfo.cs
+C:\Users\Studen\Documents\Aryan\DDE\DDE\obj\Debug\net8.0\DDE.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Documents\Aryan\DDE\DDE\bin\Debug\net8.0\DDE.exe
+C:\Users\Studen\Documents\Aryan\DDE\DDE\bin\Debug\net8.0\DDE.deps.json
+C:\Users\Studen\Documents\Aryan\DDE\DDE\bin\Debug\net8.0\DDE.runtimeconfig.json
+C:\Users\Studen\Documents\Aryan\DDE\DDE\bin\Debug\net8.0\DDE.dll
+C:\Users\Studen\Documents\Aryan\DDE\DDE\bin\Debug\net8.0\DDE.pdb
+C:\Users\Studen\Documents\Aryan\DDE\DDE\obj\Debug\net8.0\DDE.dll
+C:\Users\Studen\Documents\Aryan\DDE\DDE\obj\Debug\net8.0\refint\DDE.dll
+C:\Users\Studen\Documents\Aryan\DDE\DDE\obj\Debug\net8.0\DDE.pdb
+C:\Users\Studen\Documents\Aryan\DDE\DDE\obj\Debug\net8.0\DDE.genruntimeconfig.cache
+C:\Users\Studen\Documents\Aryan\DDE\DDE\obj\Debug\net8.0\ref\DDE.dll
