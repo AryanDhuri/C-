@@ -1,0 +1,14 @@
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\bin\Debug\net8.0\Multilevel_inheritance.exe
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\bin\Debug\net8.0\Multilevel_inheritance.deps.json
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\bin\Debug\net8.0\Multilevel_inheritance.runtimeconfig.json
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\bin\Debug\net8.0\Multilevel_inheritance.dll
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\bin\Debug\net8.0\Multilevel_inheritance.pdb
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\obj\Debug\net8.0\Multilevel_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\obj\Debug\net8.0\Multilevel_inheritance.AssemblyInfoInputs.cache
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\obj\Debug\net8.0\Multilevel_inheritance.AssemblyInfo.cs
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\obj\Debug\net8.0\Multilevel_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\obj\Debug\net8.0\Multilevel_inheritance.dll
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\obj\Debug\net8.0\refint\Multilevel_inheritance.dll
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\obj\Debug\net8.0\Multilevel_inheritance.pdb
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\obj\Debug\net8.0\Multilevel_inheritance.genruntimeconfig.cache
+C:\Users\Studen\Documents\Aryan\Multilevel_inheritance\Multilevel_inheritance\obj\Debug\net8.0\ref\Multilevel_inheritance.dll
