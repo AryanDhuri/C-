@@ -1,0 +1,14 @@
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\bin\Debug\net8.0\SealedClassMethod.exe
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\bin\Debug\net8.0\SealedClassMethod.deps.json
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\bin\Debug\net8.0\SealedClassMethod.runtimeconfig.json
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\bin\Debug\net8.0\SealedClassMethod.dll
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\bin\Debug\net8.0\SealedClassMethod.pdb
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.AssemblyInfoInputs.cache
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.AssemblyInfo.cs
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.dll
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\obj\Debug\net8.0\refint\SealedClassMethod.dll
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.pdb
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\obj\Debug\net8.0\SealedClassMethod.genruntimeconfig.cache
+C:\Users\Studen\Documents\Aryan\SealedClassMethod\SealedClassMethod\obj\Debug\net8.0\ref\SealedClassMethod.dll
