@@ -1,0 +1,14 @@
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\bin\Debug\net8.0\Calculate.exe
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\bin\Debug\net8.0\Calculate.deps.json
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\bin\Debug\net8.0\Calculate.runtimeconfig.json
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\bin\Debug\net8.0\Calculate.dll
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\bin\Debug\net8.0\Calculate.pdb
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\obj\Debug\net8.0\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\obj\Debug\net8.0\Calculate.AssemblyInfoInputs.cache
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\obj\Debug\net8.0\Calculate.AssemblyInfo.cs
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\obj\Debug\net8.0\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\obj\Debug\net8.0\Calculate.dll
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\obj\Debug\net8.0\refint\Calculate.dll
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\obj\Debug\net8.0\Calculate.pdb
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\obj\Debug\net8.0\Calculate.genruntimeconfig.cache
+C:\Users\Studen\Documents\Aryan\Calculate\Calculate\obj\Debug\net8.0\ref\Calculate.dll
