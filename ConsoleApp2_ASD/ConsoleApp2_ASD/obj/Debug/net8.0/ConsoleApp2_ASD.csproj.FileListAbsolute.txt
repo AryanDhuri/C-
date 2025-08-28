@@ -1,0 +1,14 @@
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\obj\Debug\net8.0\ConsoleApp2_ASD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\obj\Debug\net8.0\ConsoleApp2_ASD.AssemblyInfoInputs.cache
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\obj\Debug\net8.0\ConsoleApp2_ASD.AssemblyInfo.cs
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\obj\Debug\net8.0\ConsoleApp2_ASD.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\bin\Debug\net8.0\ConsoleApp2_ASD.exe
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\bin\Debug\net8.0\ConsoleApp2_ASD.deps.json
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\bin\Debug\net8.0\ConsoleApp2_ASD.runtimeconfig.json
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\bin\Debug\net8.0\ConsoleApp2_ASD.dll
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\bin\Debug\net8.0\ConsoleApp2_ASD.pdb
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\obj\Debug\net8.0\ConsoleApp2_ASD.dll
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\obj\Debug\net8.0\refint\ConsoleApp2_ASD.dll
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\obj\Debug\net8.0\ConsoleApp2_ASD.pdb
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\obj\Debug\net8.0\ConsoleApp2_ASD.genruntimeconfig.cache
+C:\Users\Studen\Documents\Aryan\ConsoleApp2_ASD\ConsoleApp2_ASD\obj\Debug\net8.0\ref\ConsoleApp2_ASD.dll
