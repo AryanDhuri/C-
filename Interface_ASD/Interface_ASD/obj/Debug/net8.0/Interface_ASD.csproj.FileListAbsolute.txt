@@ -1,0 +1,14 @@
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\bin\Debug\net8.0\Interface_ASD.exe
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\bin\Debug\net8.0\Interface_ASD.deps.json
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\bin\Debug\net8.0\Interface_ASD.runtimeconfig.json
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\bin\Debug\net8.0\Interface_ASD.dll
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\bin\Debug\net8.0\Interface_ASD.pdb
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\obj\Debug\net8.0\Interface_ASD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\obj\Debug\net8.0\Interface_ASD.AssemblyInfoInputs.cache
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\obj\Debug\net8.0\Interface_ASD.AssemblyInfo.cs
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\obj\Debug\net8.0\Interface_ASD.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\obj\Debug\net8.0\Interface_ASD.dll
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\obj\Debug\net8.0\refint\Interface_ASD.dll
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\obj\Debug\net8.0\Interface_ASD.pdb
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\obj\Debug\net8.0\Interface_ASD.genruntimeconfig.cache
+C:\Users\Studen\Documents\Aryan\Interface_ASD\Interface_ASD\obj\Debug\net8.0\ref\Interface_ASD.dll

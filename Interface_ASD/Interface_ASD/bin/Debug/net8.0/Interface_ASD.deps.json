@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Interface_ASD/1.0.0": {
+        "runtime": {
+          "Interface_ASD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interface_ASD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
