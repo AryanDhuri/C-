@@ -1,0 +1,14 @@
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\bin\Debug\net8.0\Abs_Class.exe
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\bin\Debug\net8.0\Abs_Class.deps.json
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\bin\Debug\net8.0\Abs_Class.runtimeconfig.json
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\bin\Debug\net8.0\Abs_Class.dll
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\bin\Debug\net8.0\Abs_Class.pdb
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\obj\Debug\net8.0\Abs_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\obj\Debug\net8.0\Abs_Class.AssemblyInfoInputs.cache
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\obj\Debug\net8.0\Abs_Class.AssemblyInfo.cs
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\obj\Debug\net8.0\Abs_Class.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\obj\Debug\net8.0\Abs_Class.dll
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\obj\Debug\net8.0\refint\Abs_Class.dll
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\obj\Debug\net8.0\Abs_Class.pdb
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\obj\Debug\net8.0\Abs_Class.genruntimeconfig.cache
+C:\Users\Studen\Documents\Aryan\Abs_Class\Abs_Class\obj\Debug\net8.0\ref\Abs_Class.dll
