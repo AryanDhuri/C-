@@ -1,0 +1,14 @@
+C:\Users\Studen\Documents\Aryan\Payment\Payment\bin\Debug\net8.0\Payment.exe
+C:\Users\Studen\Documents\Aryan\Payment\Payment\bin\Debug\net8.0\Payment.deps.json
+C:\Users\Studen\Documents\Aryan\Payment\Payment\bin\Debug\net8.0\Payment.runtimeconfig.json
+C:\Users\Studen\Documents\Aryan\Payment\Payment\bin\Debug\net8.0\Payment.dll
+C:\Users\Studen\Documents\Aryan\Payment\Payment\bin\Debug\net8.0\Payment.pdb
+C:\Users\Studen\Documents\Aryan\Payment\Payment\obj\Debug\net8.0\Payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Documents\Aryan\Payment\Payment\obj\Debug\net8.0\Payment.AssemblyInfoInputs.cache
+C:\Users\Studen\Documents\Aryan\Payment\Payment\obj\Debug\net8.0\Payment.AssemblyInfo.cs
+C:\Users\Studen\Documents\Aryan\Payment\Payment\obj\Debug\net8.0\Payment.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Documents\Aryan\Payment\Payment\obj\Debug\net8.0\Payment.dll
+C:\Users\Studen\Documents\Aryan\Payment\Payment\obj\Debug\net8.0\refint\Payment.dll
+C:\Users\Studen\Documents\Aryan\Payment\Payment\obj\Debug\net8.0\Payment.pdb
+C:\Users\Studen\Documents\Aryan\Payment\Payment\obj\Debug\net8.0\Payment.genruntimeconfig.cache
+C:\Users\Studen\Documents\Aryan\Payment\Payment\obj\Debug\net8.0\ref\Payment.dll
