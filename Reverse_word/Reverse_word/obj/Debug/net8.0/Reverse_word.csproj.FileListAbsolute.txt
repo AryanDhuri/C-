@@ -1,0 +1,14 @@
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\bin\Debug\net8.0\Reverse_word.exe
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\bin\Debug\net8.0\Reverse_word.deps.json
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\bin\Debug\net8.0\Reverse_word.runtimeconfig.json
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\bin\Debug\net8.0\Reverse_word.dll
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\bin\Debug\net8.0\Reverse_word.pdb
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\obj\Debug\net8.0\Reverse_word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\obj\Debug\net8.0\Reverse_word.AssemblyInfoInputs.cache
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\obj\Debug\net8.0\Reverse_word.AssemblyInfo.cs
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\obj\Debug\net8.0\Reverse_word.csproj.CoreCompileInputs.cache
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\obj\Debug\net8.0\Reverse_word.dll
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\obj\Debug\net8.0\refint\Reverse_word.dll
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\obj\Debug\net8.0\Reverse_word.pdb
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\obj\Debug\net8.0\Reverse_word.genruntimeconfig.cache
+C:\Users\Studen\Documents\Aryan\Reverse_word\Reverse_word\obj\Debug\net8.0\ref\Reverse_word.dll
