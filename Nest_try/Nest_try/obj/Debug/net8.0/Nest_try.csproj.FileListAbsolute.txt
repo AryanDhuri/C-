@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\bin\Debug\net8.0\Nest_try.exe
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\bin\Debug\net8.0\Nest_try.deps.json
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\bin\Debug\net8.0\Nest_try.runtimeconfig.json
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\bin\Debug\net8.0\Nest_try.dll
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\bin\Debug\net8.0\Nest_try.pdb
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\obj\Debug\net8.0\Nest_try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\obj\Debug\net8.0\Nest_try.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\obj\Debug\net8.0\Nest_try.AssemblyInfo.cs
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\obj\Debug\net8.0\Nest_try.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\obj\Debug\net8.0\Nest_try.dll
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\obj\Debug\net8.0\refint\Nest_try.dll
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\obj\Debug\net8.0\Nest_try.pdb
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\obj\Debug\net8.0\Nest_try.genruntimeconfig.cache
+C:\Users\Student\Documents\ASD_C#\Nest_try\Nest_try\obj\Debug\net8.0\ref\Nest_try.dll
