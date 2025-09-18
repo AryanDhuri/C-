@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\bin\Debug\net8.0\excep_hand.exe
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\bin\Debug\net8.0\excep_hand.deps.json
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\bin\Debug\net8.0\excep_hand.runtimeconfig.json
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\bin\Debug\net8.0\excep_hand.dll
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\bin\Debug\net8.0\excep_hand.pdb
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\obj\Debug\net8.0\excep_hand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\obj\Debug\net8.0\excep_hand.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\obj\Debug\net8.0\excep_hand.AssemblyInfo.cs
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\obj\Debug\net8.0\excep_hand.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\obj\Debug\net8.0\excep_hand.dll
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\obj\Debug\net8.0\refint\excep_hand.dll
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\obj\Debug\net8.0\excep_hand.pdb
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\obj\Debug\net8.0\excep_hand.genruntimeconfig.cache
+C:\Users\Student\Documents\ASD_C#\excep_hand\excep_hand\obj\Debug\net8.0\ref\excep_hand.dll
